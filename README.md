@@ -23,7 +23,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/luiz-carlos-nogueira-silva-944a896b/">
-        <img src="./Assets/LUIZ.png" width="100px;" alt="Foto Luiz Nogueira no GitHub"/><br>
+        <img src="luiz.jpg" width="100px;" alt="Foto Luiz Nogueira no GitHub"/><br>
         <sub>
           <b>Luiz Nogueira</b>
         </sub>
